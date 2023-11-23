@@ -1,6 +1,6 @@
 # hello-world
-just a repository
+Just a repository
 
 Hello world!
-Happy to be here and strat learning codes!
-Hope i will enjoy and learn lots!
+Happy to be here !
+I hope I will enjoy and learn lots!
